@@ -3,3 +3,5 @@
 - [3.5 - Lipids](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/3.5%20-%20Lipids.md)
 - [3.6 - Proteins](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/3.6%20-%20Proteins.md)
 - [3.7 - Nucleic Acids](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/3.7%20-%20Nucleic%20Acids.md)
+
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/93e8e18a-c6c1-49c2-87cc-a818c5ba1ae6)
