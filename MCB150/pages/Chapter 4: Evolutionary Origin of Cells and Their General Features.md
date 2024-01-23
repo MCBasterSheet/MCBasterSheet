@@ -4,11 +4,8 @@
 	  Then 2 decades later Rudolf Virchow said that every cell originates from another cell.
 - Cell theory is in three parts:
 	- All living organisms are composed of 1+ cells
-	  logseq.order-list-type:: number
 	- Cells are the smallest units of life
-	  logseq.order-list-type:: number
 	- New cells come only from pre-existing cells via cell division
-	  logseq.order-list-type:: number
 - Used to be unseen, but now we unravel them at a molecular level.
 	- Super complex and adaptable cells man
 - [4.1 - Origin of Living Cells on Earth.md](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.1%20-%20Origin%20of%20Living%20Cells%20on%20Earth.md)
