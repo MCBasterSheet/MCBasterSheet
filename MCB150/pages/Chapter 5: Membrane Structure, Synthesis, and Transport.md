@@ -8,4 +8,6 @@ This chapter covers the components making structure and fluidity of membranes an
   - This occurs via transport proteins and via exocytosis and endocytosis (read ahead to learn more)
 
 [5.1 - Membrane Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/5.1%20-%20Membrane%20Structure.md)
+
 [5.2 - Fluidity of Membranes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/5.2%20-%20Fluidity%20of%20Membranes.md)
+
