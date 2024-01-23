@@ -11,3 +11,6 @@ This chapter covers the components making structure and fluidity of membranes an
 
 [5.2 - Fluidity of Membranes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/5.2%20-%20Fluidity%20of%20Membranes.md)
 
+[5.3 - Synthesis of Membrane Components in Eukaryotic Cells](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/5.3%20-%20Synthesis%20of%20Membrane%20Components%20in%20Eukaryotic%20Cells.md)
+
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f350cb56-a87a-403e-8571-d65fa9d28569)
