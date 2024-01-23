@@ -1,4 +1,3 @@
-![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/92c1b9d1-b52a-4b2d-9b78-9cf6e291c2ac)
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/7f87d717-b865-4925-8cde-2014a087cc78)
 
 # Hello MCB 150 Students
