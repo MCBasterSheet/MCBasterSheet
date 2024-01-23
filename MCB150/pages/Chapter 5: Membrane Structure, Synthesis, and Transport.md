@@ -7,4 +7,4 @@ This chapter covers the components making structure and fluidity of membranes an
   - Big part of membranes is how it regulates traffic of substances into and out of the cell and its organelles
   - This occurs via transport proteins and via exocytosis and endocytosis (read ahead to learn more)
 
-[5.1 - Membrane Structure]
+[5.1 - Membrane Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/5.1%20-%20Membrane%20Structure.md)
