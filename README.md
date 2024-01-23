@@ -6,6 +6,8 @@
     - Continue to go to class, continue to go to discussions, and make sure that you still study for each exam
   - Aside from that, I wish you best of lucks in MCB 150!
 
+P.S. This Mastersheet, due to the fact that it was not pre-planned, has some outdated areas that will need to be reformatted. Otherwise, this should work for a majority of your use cases
+
 [Textbook Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/MCB150%20Textbook.md)
 
 [Lecture Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lecture%20Mastersheet.md)
