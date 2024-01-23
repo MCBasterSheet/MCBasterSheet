@@ -13,3 +13,5 @@
 - [4.3 - Overview of Cell Structure and Function](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.3%20-%20Overview%20of%20Cell%20Structure%20and%20Function.md)
 - [4.4 - The Cytosol](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.4%20-%20The%20Cytosol.md)
 - [4.5 - The Nucleus and Endomembrane System (Unfinished and Unneeded)](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.5%20-%20The%20Nucleus%20and%20Endomembrane%20System.md)
+
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/16d690c6-6a2c-4ae6-b23f-cf198360c4db)
