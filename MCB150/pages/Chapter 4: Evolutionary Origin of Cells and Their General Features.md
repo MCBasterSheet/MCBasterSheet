@@ -11,7 +11,8 @@
 	  logseq.order-list-type:: number
 - Used to be unseen, but now we unravel them at a molecular level.
 	- Super complex and adaptable cells man
-- [[4.1 - Origin of Living Cells on Earth]]
+- [[4.1 - Origin of Living Cells on Earth]](MCBasterSheet/MCB150/pages
+/4.1 - Origin of Living Cells on Earth.md)
 - [[4.2 - Microscopy]]
 - [[4.3 - Overview of Cell Structure and Function]]
 - [[4.4 - The Cytosol]]
