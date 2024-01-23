@@ -4,4 +4,5 @@
 - [Chapter 4: Evolutionary Origin of Cells and Their General Features](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%204%3A%20Evolutionary%20Origin%20of%20Cells%20and%20Their%20General%20Features.md)
 - [Chapter 5: Membrane Structure, Synthesis, and Transport](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%205%3A%20Membrane%20Structure%2C%20Synthesis%2C%20and%20Transport.md)
 
-![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/16c9f4c3-f9d7-4a79-8c7a-c23e389951ce)
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/69c0b465-90ca-4e03-9322-670176ec47f6)
+
