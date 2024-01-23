@@ -4,3 +4,5 @@
 - [1.4 - Classification of Living Things](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/1.4%20-%20Classification%20of%20Living%20Things.md)
 - [1.5 - Biology as a Scientific Discipline](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/1.5%20-%20Biology%20as%20a%20Scientific%20Discipline.md)
 - [1.6 - Core Skills of Biology](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/1.6%20-%20Core%20Skills%20of%20Biology.md)
+
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/4a01fc19-b345-4bec-8817-b0ce67e9ded8)
