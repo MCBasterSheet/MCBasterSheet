@@ -7,6 +7,7 @@
   - Otherwise, I hope this helps you a lot this semester of MCB 150
 
 [Textbook Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/MCB150%20Textbook.md)
+
 [Lecture Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lecture%20Mastersheet.md)
 
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/7f87d717-b865-4925-8cde-2014a087cc78)
