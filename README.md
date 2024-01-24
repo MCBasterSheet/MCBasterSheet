@@ -12,4 +12,5 @@ P.S. This Mastersheet, due to the fact that it was not pre-planned, has some out
 
 [Lecture Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lecture%20Mastersheet.md)
 
-![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/074f9478-7ccc-4b24-81df-81973b824479)
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/82e09e18-a904-4a0f-b208-fab0daa6dbe6)
+
