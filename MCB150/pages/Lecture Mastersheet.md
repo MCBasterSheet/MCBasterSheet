@@ -8,3 +8,5 @@
 [Janurary 26, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2026%2C%202024%20Lecture.md)
 
 [January 29, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/January%2029,%202024%20Lecture.md)
+
+[January 31, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/January%2031%2C%202024%20Lecture.md)
