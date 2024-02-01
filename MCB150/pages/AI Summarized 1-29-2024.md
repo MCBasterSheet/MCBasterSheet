@@ -30,3 +30,38 @@ The lecture concludes with a question and answer session, where students partici
 
 # Next Topic Preview
 The lecturer concludes by introducing the next topic, nucleic acids, specifying DNA and RNA as the two main types.
+
+# Introduction to Nucleic Acids
+
+> In this transcript, the speaker introduces nucleic acids as macromolecules primarily known for information storage. While acknowledging their role in genetics, the discussion is kept generic, with an emphasis on nucleotides as the building blocks.
+
+# Nucleotide Structure
+
+> Nucleotides, the monomers of nucleic acids, consist of three components: nitrogenous base, five-carbon sugar, and phosphate group. The nitrogenous base can be a single or double ring structure, classified as pyrimidines (single ring) or purines (double ring). The terminology is highlighted as being generic.
+
+> The generic structure is further detailed, and a numbering system is introduced, emphasizing the importance of the nitrogenous base in providing identity.
+
+# Nucleoside and Nucleotide Specificity
+
+> Nucleosides, consisting of sugar and nitrogenous base, form the basis for more specific terms. The addition of phosphates leads to nucleotides. The terms nucleoside monophosphate, nucleoside diphosphate, and nucleoside triphosphate are explained, providing specificity in describing the number of phosphates.
+
+# DNA and RNA Differences
+
+> Distinctions between DNA and RNA are discussed, focusing on differences in bases (adenine, guanine, cytosine, thymine, uracil) and sugars (deoxyribose in DNA, ribose in RNA). The naming conventions for nucleotides in DNA (DNTP) and RNA (NTP) are introduced.
+
+# DNA and RNA Building Blocks
+
+> Building blocks for DNA are deoxyribonucleoside triphosphates (DNTPs), and for RNA, ribonucleoside triphosphates (NTPs). The importance of three phosphates in the incoming building blocks is stressed.
+
+# RNA and DNA Structures
+
+> DNA is usually double-stranded, while RNA is usually single-stranded. The phosphodiester linkage is explained as the covalent bond forming between nucleotides during polymerization.
+
+# Polymerization of Nucleic Acids
+
+> The polymerization process involves a condensation reaction, producing a phosphodiester bond and releasing a water molecule. The requirement of three phosphates for energy is clarified, emphasizing the breakage of a pyrophosphate group.
+
+# Nature of Nucleic Acids
+
+> A final learning catalytic question addresses the existence of certain molecules in nature, encouraging understanding of naming conventions and molecular structures.
+
