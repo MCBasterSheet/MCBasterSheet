@@ -4,3 +4,5 @@
 [January 22, 2023 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2022%2C%202023%20Lecture.md) //Ditto
 
 [Janurary 24, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2024%2C%202024%20Lecture.md)
+
+[Janurary 26, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2026%2C%202024%20Lecture.md)
