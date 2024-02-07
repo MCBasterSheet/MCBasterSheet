@@ -34,4 +34,44 @@
 
 ## Examples of Reversible Inhibition
 
-> Aspirin, an irreversible inhibitor, temporarily inhibits cyclooxygenase, providing relief from symptoms. Reversible inhibitors, although not lethal, highlight the need for enzyme recycling for sustained functionality.
+> Aspirin, an irreversible inhibitor, temporarily inhibits cyclooxygenase, providing relief from symptoms. Reversible inhibitors, although not lethal, highlight the need for enzyme recycling for sustained functionality. Thus, we must get into reversible inhibition.
+
+## Competitive Inhibition
+
+> Competitive inhibition involves a physical competition between the natural substrate and an inhibitor molecule. The inhibitor resembles the substrate in the region binding to the active site. The balance between substrate and inhibitor concentrations determines the rate of product formation. Flooding out the inhibitor with excess substrate is a reversible way to overcome competitive inhibition.
+
+## Overcoming Competitive Inhibition
+
+> While flooding out with excess substrate is a lab technique, it's not always feasible in cellular contexts like nutrient availability. Alternatively, the cell can decrease the production of the inhibitor, effectively inhibiting the inhibitor itself and restoring enzyme activity.
+
+## Example of Competitive Inhibition
+
+> An example is DHPS enzyme in bacteria, essential for nucleotide synthesis. Sulfa drugs like sulfanilamide competitively inhibit DHPS by resembling the substrate. This competition disrupts the bacterial process, making it a potent antibiotic.
+
+## Non-Competitive Inhibition
+
+> Non-competitive inhibition involves an inhibitor binding to an allosteric site, distinct from the active site. It doesn't involve a competition with the substrate. The inhibition is reversible, but flooding out the inhibitor with excess substrate doesn't restore enzyme activity.
+
+## Overcoming Non-Competitive Inhibition
+
+> Overcoming non-competitive inhibition involves removing the inhibitor itself, as increasing substrate concentration doesn't affect the inhibition. Cells have control over these inhibitors, making the process reversible.
+
+## Biochemistry of Enzyme Action
+
+> Vmax represents the maximum velocity of enzyme action, indicating the maximum rate of product formation with abundant substrate. Km, the substrate concentration at half Vmax, reflects the enzyme's affinity for its substrate. Affinity is inversely proportional to Km, and enzymes vary in their Km values.
+
+## Effect of Inhibitors on Km and Vmax
+
+### Competitive Inhibitors
+
+> - **Vmax:** Unchanged
+> - **Km:** Increases due to the competition with the inhibitor
+
+### Non-Competitive Inhibitors
+
+> - **Vmax:** Decreases as the inhibitor prevents enzymes from reaching their full potential
+> - **Km:** Unchanged, as the inhibition is not affected by substrate concentration
+
+## Conclusion
+
+> Understanding competitive and non-competitive inhibition, along with the biochemistry of enzyme action, is essential for comprehending cellular regulation. Good luck to everyone in the upcoming exam!
