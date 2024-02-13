@@ -6,3 +6,5 @@
 [7.1 - Overview of Cellular Respiration](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.1%20-%20Overview%20of%20Cellular%20Respiration.md)
 
 [7.2 - Glycolysis](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.2%20-%20Glycolysis.md)
+
+[7.3 - Breakdown of Pyruvate] (https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.3%20-%20Breakdown%20of%20Pyruvate.md)
