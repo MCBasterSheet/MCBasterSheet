@@ -14,3 +14,7 @@
 [7.5 - Overview of Oxidative Phosphorylation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.5%20-%20Overview%20of%20Oxidative%20Phosphorylation.md)
 
 [7.6 - A Closer Look at ATP Synthase](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.6%20-%20A%20Closer%20Look%20at%20ATP%20Synthase.md)
+
+[7.7 - Connections Among Carbohydrate, Protein, and Fat Metabolism](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.7%20-%20Connections%20Among%20Carbohydrate%2C%20Protein%2C%20and%20Fat%20Metabolism.md)
+
+[7.8 - Anaerobic Respiration and Fermentation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.8%20-%20Anaerobic%20Respiration%20and%20Fermentation.md)
