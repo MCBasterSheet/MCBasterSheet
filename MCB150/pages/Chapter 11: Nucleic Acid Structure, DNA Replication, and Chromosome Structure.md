@@ -1,3 +1,5 @@
+># DNA has been Important as shit. They a Real One
+>
 > 10-17-2001 Mario was out of prison and was convicted of a shit load of things until they used DNA evidence that Edwin M was the real crime committer
 > 
 > He committed another crime and they matched his DNA
