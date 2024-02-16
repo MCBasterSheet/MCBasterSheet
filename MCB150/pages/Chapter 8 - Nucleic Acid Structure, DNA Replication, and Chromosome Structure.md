@@ -5,4 +5,4 @@
 > We see molecular features of DNA, how it stores information, and how it is copied
 > We also see RNA and its similarities to DNA and then the molecular compositions of chromosomes where DNA is found (maybe not)
 
-[11.1 - Properties and Identification of the Genetic Material]()
+[11.1 - Properties and Identification of the Genetic Material](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.1%20-%20Properties%20and%20Identification%20of%20the%20Genetic%20Material.md)
