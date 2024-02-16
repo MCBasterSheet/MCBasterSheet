@@ -8,3 +8,5 @@
 [11.1 - Properties and Identification of the Genetic Material](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.1%20-%20Properties%20and%20Identification%20of%20the%20Genetic%20Material.md)
 
 [11.2 -  Nucleic Acid Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.2%20-%20%20Nucleic%20Acid%20Structure.md)
+
+[11.3 - Discovery of the Double-Helix Structure of DNA]()
