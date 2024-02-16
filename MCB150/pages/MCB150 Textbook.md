@@ -5,7 +5,7 @@
 - [Chapter 5: Membrane Structure, Synthesis, and Transport](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%205%3A%20Membrane%20Structure%2C%20Synthesis%2C%20and%20Transport.md)
 - [Chapter 6: An Introduction to Energy, Enzymes, and Metabolism](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%206:%20An%20Introduction%20to%20Energy,%20Enzymes,%20and%20Metabolism.md)
 - [Chapter 7: Cellular Respiration and Fermentation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%207%3A%20Cellular%20Respiration%20and%20Fermentation.md)
-- [Chapter 8 - Nucleic Acid Structure, DNA Replication, and Chromosome Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%208%20-%20Nucleic%20Acid%20Structure,%20DNA%20Replication,%20and%20Chromosome%20Structure.md)
+- [Chapter 11 - Nucleic Acid Structure, DNA Replication, and Chromosome Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%2011:%20Nucleic%20Acid%20Structure,%20DNA%20Replication,%20and%20Chromosome%20Structure.md)
 
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/8198c88e-f106-4c16-b3cd-8172318afa4b)
 
