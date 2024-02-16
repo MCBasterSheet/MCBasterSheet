@@ -4,6 +4,6 @@
 - [Chapter 4: Evolutionary Origin of Cells and Their General Features](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%204%3A%20Evolutionary%20Origin%20of%20Cells%20and%20Their%20General%20Features.md)
 - [Chapter 5: Membrane Structure, Synthesis, and Transport](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%205%3A%20Membrane%20Structure%2C%20Synthesis%2C%20and%20Transport.md)
 - [Chapter 6: An Introduction to Energy, Enzymes, and Metabolism](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%206:%20An%20Introduction%20to%20Energy,%20Enzymes,%20and%20Metabolism.md)
-  
+- [Chapter 7: Cellular Respiration and Fermentation.md](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%207%3A%20Cellular%20Respiration%20and%20Fermentation.md)  
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/8198c88e-f106-4c16-b3cd-8172318afa4b)
 
