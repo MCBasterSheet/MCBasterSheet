@@ -21,3 +21,6 @@
 [11.4 - Overview of DNA Replication](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.4%20-%20Overview%20of%20DNA%20Replication.md)
 
 [11.5 - Molecular Mechanism of DNA Replication](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.5%20-%20Molecular%20Mechanism%20of%20DNA%20Replication.md)
+
+[11.6 - Molecular Structure of Eukaryotic Chromosomes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.6%20-%20Molecular%20Structure%20of%20Eukaryotic%20Chromosomes.md)
+
