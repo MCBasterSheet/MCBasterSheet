@@ -1,4 +1,4 @@
-># DNA has been Important as shit. They a Real One
+># DNA has been Important
 >
 > 10-17-2001 Mario was out of prison and was convicted of a shit load of things until they used DNA evidence that Edwin M was the real crime committer
 > 
@@ -24,3 +24,4 @@
 
 [11.6 - Molecular Structure of Eukaryotic Chromosomes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/11.6%20-%20Molecular%20Structure%20of%20Eukaryotic%20Chromosomes.md)
 
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/62e3b55f-538d-41d5-ab6c-7a5322260fe2)
