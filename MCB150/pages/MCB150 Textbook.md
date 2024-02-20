@@ -7,5 +7,9 @@
 - [Chapter 7: Cellular Respiration and Fermentation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%207%3A%20Cellular%20Respiration%20and%20Fermentation.md)
 - [Chapter 11: Nucleic Acid Structure, DNA Replication, and Chromosome Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%2011:%20Nucleic%20Acid%20Structure,%20DNA%20Replication,%20and%20Chromosome%20Structure.md)
 
-![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/8198c88e-f106-4c16-b3cd-8172318afa4b)
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/453a0e5f-42c5-4591-82b5-d4a9c20f9fd3) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/41f20ef5-7f26-4b7c-9624-f3dbd0b6c310) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/2e9362a9-4ea9-4a97-8ab5-618782fb2e69) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/1522e899-1de5-4f02-82cd-6596e1e0306a) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/7bb7e763-0ef5-438b-b938-eebb23d7b924)
+
+
+
+
 
