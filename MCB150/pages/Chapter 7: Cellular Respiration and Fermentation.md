@@ -18,3 +18,7 @@
 [7.7 - Connections Among Carbohydrate, Protein, and Fat Metabolism](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.7%20-%20Connections%20Among%20Carbohydrate%2C%20Protein%2C%20and%20Fat%20Metabolism.md)
 
 [7.8 - Anaerobic Respiration and Fermentation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/7.8%20-%20Anaerobic%20Respiration%20and%20Fermentation.md)
+
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/469ff291-b926-4f4d-8543-a84b7ed0c431)
+
+# GOOD LUCK! I believe in you!
