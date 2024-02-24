@@ -27,3 +27,34 @@ The historic issue of Nature in 1953, featuring back-to-back publications by Wat
 ## Chargaff's Bitterness
 Erwin Chargaff's bitter attitude towards molecular biology is explored. His rejection of influential papers and attempts to undermine the contributions of Watson and Crick are highlighted.
 
+# DNA Replication and Structure
+
+## Overview
+This transcript explores the complexities of DNA replication and the structural details of DNA. It covers soap opera class elements before delving into Watson and Crick's DNA model. The focus includes the significance of base pairing, hydrogen bonds, and complementary sequences.
+
+## Forces Holding DNA Strands Together
+Watson and Crick proposed DNA's structure based on complementary base pairing. Noteworthy details include the uniform width of the DNA molecule and constraints on certain base pairings. Complementary base pairing (G-C and A-T) is introduced, emphasizing hydrogen bond roles.
+
+## Anti-Parallel and Complementary Nature
+The discussion proceeds to the anti-parallel nature of DNA strands and the importance of being complementary. Hydrogen bonds in GC and AT pairs are explained, along with the term "anti-parallel."
+
+## Base Stacking Interactions
+Another force, base stacking interactions, is introduced, involving the flat, hydrophobic nature of nitrogenous bases, contributing to the double helix's stability.
+
+## DNA Replication
+The transcript transitions to DNA replication, discussing conservative, semi-conservative, and dispersive models. Meselson and Stahl's elegant experiment supporting semi-conservative replication is hinted at.
+
+## Steps in DNA Replication
+1. **Initiation:** Recognition of the origin of replication (ori).
+2. **Strand Separation:** Creation of a replication bubble with forks.
+3. **Priming the Pump:** Synthesis initiation with a primer.
+4. **DNA Synthesis:** Strand extension in the 5' to 3' direction.
+5. **Cleanup:** Ensuring two intact copies of DNA.
+
+## DNA Replication in Bacteria
+In bacteria, a single origin of replication suffices due to process efficiency. The termination sequence is highlighted for replication fork synchronization.
+
+## Resolution of Replicated DNA
+The transcript concludes by discussing the resolution of interlocked circles in bacterial DNA replication, ensuring two independent circles for cell division.
+
+The transcript concludes with encouragement to explore Meselson and Stahl's experiment further.
