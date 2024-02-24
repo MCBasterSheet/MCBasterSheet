@@ -28,7 +28,56 @@ Next, the lecture shifts to Valentine's Day greetings and a brief mention of ant
 - Allosteric regulation explained, focusing on binding sites and the potential for both positive and negative regulation.
 - Comparison of negative allosteric regulation with non-competitive enzyme inhibition.
 
-## Conclusion
-- Metabolism regulation serves to optimize energy usage, allowing for a flexible response to cellular needs.
+# Transcript Summary
 
+## Non-Competitive Inhibition and Regulatory Molecules
+
+- Non-competitive inhibition resembles negative regulation, especially for MCP150.
+- Regulatory molecules signal when a cell has produced sufficient products.
+- End products of pathways often regulate specific enzymes in the pathway.
+- Feedback inhibition slows down or turns off enzymes involved in product production.
+- The chosen enzyme for regulation is evolutionarily selected and identified by various methods.
+
+## Feedback Inhibition Mechanism
+
+- Feedback inhibition involves molecules binding to allosteric sites on regulating enzymes.
+- Molecules bind non-covalently, altering enzyme activity temporarily.
+- Glycolysis example: Phosphofructokinase is a rate-limiting enzyme regulated by ATP and ADP.
+- ATP inhibits, and ADP activates phosphofructokinase, balancing glycolysis speed.
+- Relative levels of ATP and ADP determine the need for glycolysis speed adjustments.
+
+## Rate-Limiting Step and Allosteric Regulation
+
+- Rate-limiting step is crucial; it determines the pathway's overall speed.
+- Phosphofructokinase in glycolysis is a rate-limiting enzyme with allosteric binding sites.
+- ATP binding slows down, and ADP binding speeds up phosphofructokinase, impacting glycolysis.
+- Balancing ATP and ADP levels is essential for energy efficiency.
+
+## Branched Pathways and Regulation
+
+- Regulatory molecules can affect enzymes in different pathways.
+- Example: Branched pathway with molecules A, B, C, S, Y, Z.
+- Molecule T feedback inhibits its own production and can activate other enzymes.
+- First committed step (C to S) is crucial for efficient regulation without wasting energy.
+- Balancing energy expenditure and product needs is key.
+
+## Multiple Functions of Regulatory Molecules
+
+- Regulatory molecules may have multiple functions.
+- Example: Molecule T can inhibit its own production and activate another enzyme.
+- First committed step (C to S) is logical for regulation to save energy without disrupting other pathways.
+
+## Learning Catalytics Problem - Product Q
+
+- Product Q regulates its own production allosterically.
+- Identifying the first committed step (D to O) is crucial for efficient feedback inhibition.
+- Understanding the pathway structure is essential for effective regulation.
+
+## Fun Break: Cellular Respiration Rap
+
+- A parody rap video by Stanford undergraduates explains cellular respiration entertainingly.
+- Covers concepts discussed in the transcript.
+- Provides a fun recap of cellular respiration.
+
+Enjoy the learning rap video!
 
