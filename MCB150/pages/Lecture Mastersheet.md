@@ -1,7 +1,7 @@
 # Here Lies all the Lectures, with transcripts and AI summarizations + dates
-[Janurary 19, 2023 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2019%2C%202023%20Lecture.md) //2024* not 2023
+[Janurary 19, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2019%2C%202023%20Lecture.md)
 
-[January 22, 2023 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2022%2C%202023%20Lecture.md) //Ditto
+[January 22, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2022%2C%202023%20Lecture.md) 
 
 [Janurary 24, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2024%2C%202024%20Lecture.md)
 
@@ -18,3 +18,5 @@
 [February 7, 2024 REVIEW SESSION](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%207%2C%202024%20REVIEW%20SESSION.md)
 
 [February 9, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%209%2C%202024%20Lecture.md)
+
+[February 12, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2012,%202024%20Lecture.md)
