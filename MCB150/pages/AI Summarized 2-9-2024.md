@@ -36,7 +36,7 @@
 - Breakdown of glycolysis steps: 
   1. Phosphorylation of glucose to glucose 6-phosphate.
   2. Isomerization to fructose 6-phosphate.
-  3. Addition of a second phosphate to create fructose 1,6-bisphosphate.
+  3. Addition of a second phosphate to create fructose 1,6-biphosphate.
   4. Cleavage into two 3-carbon molecules.
   5. Interconversion of the top molecule into an identical bottom molecule.
   6. Duplication of steps for both molecules.
