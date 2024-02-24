@@ -20,3 +20,5 @@
 [February 9, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%209%2C%202024%20Lecture.md)
 
 [February 12, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2012,%202024%20Lecture.md)
+
+[February 14, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2014,%202024%20Lecture.md)
