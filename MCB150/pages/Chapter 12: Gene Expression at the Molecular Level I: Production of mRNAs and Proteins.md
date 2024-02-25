@@ -21,8 +21,8 @@
 
 [12.2 - Transcription](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.2%20-%20Transcription.md)
 
-![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f327f92a-8fdf-4da6-b80c-656c6eef390a)
-
 [12.3 - RNA Modification in Eukaryotes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.3%20-%20RNA%20Modification%20in%20Eukaryotes.md)
 
-> What I want, but am afraid of getting from this university right now
+![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f327f92a-8fdf-4da6-b80c-656c6eef390a)
+
+> Good luck on this unit. I will rest easy knowing that I will likely fuck it up too.
