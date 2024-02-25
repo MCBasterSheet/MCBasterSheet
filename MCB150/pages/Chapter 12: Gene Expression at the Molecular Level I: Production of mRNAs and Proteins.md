@@ -19,6 +19,8 @@
 
 [12.1 - Overview of Gene Expression](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.1%20-%20Overview%20of%20Gene%20Expression.md)
 
+[12.2 - Transcription]()
+
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f327f92a-8fdf-4da6-b80c-656c6eef390a)
 
 > What I want, but am afraid of getting from this university right now
