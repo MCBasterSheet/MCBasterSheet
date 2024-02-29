@@ -30,10 +30,41 @@
 - Discussion on how unwound DNA is scanned to find these promoter sequences.
 - The importance of finding an exact match for the promoter sequences emphasized.
 
-## Conclusion
-- The professor highlights the significance of deviations from the consensus sequence.
-- Importance of promoter strength in regulating transcription based on protein needs.
-- The role of sigma factor in scanning and identifying promoter sequences.
-- A metaphor using college shirts to explain conserved sequences.
-- Sequence logos as a quick way to identify consensus sequences.
+# Transcription Process Overview
+
+## Introduction
+- Detailed explanation of the transcription process.
+- Covers helix unwinding, groove recognition, and sigma factor's role.
+
+## Helix Unwinding and Groove Recognition
+- Major and minor grooves used to determine sequence inside helix.
+- DNA-binding proteins scan major groove without unwinding.
+
+## Initiating Transcription
+- RNA polymerase holoenzyme scans unwound DNA for promoters.
+- Sigma factor creates a closed promoter complex, ensuring stability.
+
+## Unwinding and Internal Helicase Activity
+- RNA polymerase engages internal helicase activity.
+- Sigma factor shifts from scanning to stabilizing.
+
+## Transcription Bubble and Elongation
+- Open promoter complex forms for elongation.
+- Rewinding trailing edge protects single-stranded DNA.
+
+## Directionality and Template Strand
+- Template strand read 3' to 5'.
+- Coding strand parallels transcript with RNA-specific differences.
+
+## Matching and Transcription Interpretation
+- Matching question identifies template and coding strands.
+- Interpreting transcript sequence based on template strand.
+
+## Promoter Orientation
+- RNA polymerase selects strand based on promoter orientation.
+- Feet and slippers ensure accuracy in transcription direction.
+
+# Summary
+- Comprehensive understanding of transcription process.
+- Emphasizes key molecular events and distinctions from DNA replication.
 
