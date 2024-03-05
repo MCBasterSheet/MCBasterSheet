@@ -1,5 +1,6 @@
 
 # Transcript Analysis
+> THIS BITCH KEEPS ON MAKING JOKES WTF STOP
 
 ## Introduction
 The speaker begins by describing their prolonged illness and the challenges they faced, leading to a decision to feed their kids leftovers instead of preparing a full meal. The tone is personal and conversational, setting the stage for a shift to a more formal and informative discussion.
