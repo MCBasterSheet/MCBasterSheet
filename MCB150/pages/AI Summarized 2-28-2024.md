@@ -1,45 +1,70 @@
-# Lecture Transcript: RNA Processing in Eukaryotes
+# Lecture Transcript
 
-## Opening Remarks
-Thank you. Earlier today I was running late for a meeting, and somebody stopped me anyway and said, hey, what's the difference between ignorance and apathy? And I said, look, I don't know and I don't care. Thank you.
+## Ignorance or Apathy?
+Thank you. Earlier today, I was running late for a meeting, and somebody stopped me anyway and said, "Hey, what's the difference between ignorance and apathy?" And I said, "Look, I don't know and I don't care. Thank you."
 
-## Course Announcements
-- Good afternoon. Happy Wednesday to you all. Welcome to MCB 150.
-- Exam Reminder: The upcoming exam is a week from tomorrow, Thursday, the 7th of March, from 7 to 9 p.m.
-- Deadline for Conflict Exam: Monday at 5 p.m. is the deadline for conflict exam requests.
-- Exam Locations: Already posted in Canvas, same as exam one. Show up on time.
-- Exam Coverage: Material up to Monday's class will be on exam two.
+## Exam Reminders and Conflict Procedures
+Good Afternoon and Happy Wednesday!
+Welcome to MCB 150. I have some announcements to make, most of them reminders about the exam that's coming up.
 
-## Practice Problems and Exam Preparation
-- Reminder about practice problems from exam one with metabolism questions. New practice sets for exam two will be available soon.
-- Questions: If you have questions, talk to us for clarity on class events and expectations.
+- The exam is a week from tomorrow, Thursday, the 7th of March, from 7 to 9 p.m.
+- Monday at 5 p.m. is the deadline for conflict exam requests for any reason.
+- Exam locations are posted in Canvas, the same as the previous exam.
+- Wednesday's material will begin exam three or unit three material.
+- Exam two content concludes with today, Friday, and Monday's class.
 
-## Intron Removal and Exon Joining
-When we left off on Monday, we were talking about what intron removal entails. Let's explore how this process occurs with some pictures.
+## Practice Problems and Metabolism Reminders
+Don't forget about the practice problems:
 
-- Introns vary in length, but intron-exon junctions are crucial.
-- SNRPs (small nuclear ribonucleoprotein complexes) remove introns and join exons.
-- 5' splice site and 3' splice site are identified by SNRPs.
-- Introns are looped out, cut at the 5' splice site, and form a lariat structure.
-- False splice sites can lead to disorders like thalassemias.
+- Exam one practice sets contain metabolism questions.
+- Exam two practice sets will be available soon.
+- Be precise in recognizing intron-exon junctions for correct SNRP action.
 
-## Alternative Splicing
-- Introns provide regulatory capabilities and flexibility for alternative splicing.
-- Alternative splicing allows different combinations of exons, creating multiple protein variants.
-- The average in humans is three to four different versions of a protein due to alternative splicing.
+## Intron Removal Mechanism and SNRPs
+When we left off on Monday, we were discussing intron removal and SNRPs. Let's delve into the mechanics of intron removal:
 
-## Relationship Between Genome Size and Complexity
-- Genome size doesn't directly correlate with organism complexity.
-- Prokaryotes show a linear relationship between genome size and the number of genes.
-- Eukaryotes, like humans and rice, exhibit a scatterplot with no clear correlation.
-- Alternative splicing contributes to the diversity of proteins despite variations in genome size.
+- Intron-exon junctions are crucial, with the 5' and 3' splice sites.
+- Small nuclear ribonucleoprotein complexes (SNRPs) remove introns and join exons.
+- SNRPs recognize 5' splice site, invariant adenine near 3' splice site.
+- A series of SNRPs bunch introns, cut at the 5' splice site, and form a lariat structure.
+- The 3' splice site is cut, the lariat is released, and exons are covalently joined.
 
-## mRNA Processing
-### 5' End Modification
-- The 5' end receives a cap structure: 5' 7-methylguanosine cap.
-- Cap structure protects against exonucleases, aids ribosome recognition, and provides directionality.
+## Ribonucleoprotein Complexes and Intron Recognition
+SNRPs are ribonucleoprotein complexes.
 
-### 3' End Modification
-- Poly-A tail added to the 3' end by poly-A polymerase.
-- The poly-A tail protects against exonucleases and serves as a recognition site for translation.
+- RNPs include an RNA and protein component.
+- Incorrect recognition leads to disorders like thalassemias.
+- False splice sites result in defective proteins if recognition is incorrect.
+
+## Alternative Splicing and Genome Complexity
+Alternative splicing allows different combinations of exons.
+
+- Relationship between genome size and complexity is not straightforward.
+- Prokaryotes show a linear relationship between genome size and gene number.
+- Eukaryotes, especially humans, demonstrate a more complex scenario.
+- Alternative splicing allows diverse proteins from a limited number of genes.
+
+## Size of Genomes and Number of Genes
+Genome size does not directly correlate with organism complexity.
+
+- The size of nematode worm and human genomes may differ, but the number of genes is comparable.
+- Humans can make about 100,000 proteins from 21,000 genes due to alternative splicing.
+- The average in humans is three to four different versions of a protein.
+
+## RNA Processing: Capping and Tailing
+
+### 5' Cap
+- **RNA 5' Triphosphatase:** Removes one phosphate from the 5' end.
+- **Addition of GTP:** Adds an upside-down guanine via a triphosphate bridge.
+- **Methylation:** Methylates the guanine at the number 7 atom.
+- **Result:** 5' 7-Methylguanosine cap (5' Cap): Essential for ribosome recognition and protects against exonucleases.
+
+### 3' Poly-A Tail
+- **Recognition Sequence (AAUAAA):** Marks the termination site.
+- **Poly-A Polymerase:** Adds up to 300 adenines.
+- **Result:** Poly-A Tail: Protects against exonucleases and aids in mRNA export.
+
+## Purpose of Capping and Tailing
+- **5' Cap:** Ribosome recognition, protection against exonucleases.
+- **Poly-A Tail:** Protection against exonucleases, assists in mRNA export.
 
