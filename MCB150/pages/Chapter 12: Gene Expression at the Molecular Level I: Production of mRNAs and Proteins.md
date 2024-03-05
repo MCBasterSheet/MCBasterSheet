@@ -25,6 +25,10 @@
 
 [12.4 - Translation and Genetic Code](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.4%20-%20Translation%20and%20the%20Genetic%20Code.md)
 
+[12.5 - The Machinery of Translation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.5%20-%20The%20Machinery%20of%20Translation.md)
+
+[12.6 - The Stages of Trannslation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.6%20-%20The%20Stages%20of%20Translation.md)
+
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f327f92a-8fdf-4da6-b80c-656c6eef390a)
 
 > Good luck on this unit. I will rest easy knowing that I will likely fuck it up too.
