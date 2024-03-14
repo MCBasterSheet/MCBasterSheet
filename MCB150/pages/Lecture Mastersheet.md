@@ -22,26 +22,26 @@
 
 # EXAM 2
 
-[February 9, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%209%2C%202024%20Lecture.md)
+[February 9, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%209%2C%202024%20Lecture.md)
 
-[February 12, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2012,%202024%20Lecture.md)
+[February 12, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2012,%202024%20Lecture.md)
 
-[February 14, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2014,%202024%20Lecture.md)
+[February 14, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2014,%202024%20Lecture.md)
 
-[February 16, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2016,%202024%20Lecture.md)
+[February 16, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2016,%202024%20Lecture.md)
 
-[February 19, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2019%2C%202024%20Lecture.md)
+[February 19, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2019%2C%202024%20Lecture.md)
 
-[February 21, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2021%2C%202024%20Lecture.md)
+[February 21, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2021%2C%202024%20Lecture.md)
 
-[February 23, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2023,%202024%20Lecture.md)
+[February 23, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2023,%202024%20Lecture.md)
 
-[February 26, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2026%2C%202024%20Lecture.md)
+[February 26, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2026%2C%202024%20Lecture.md)
 
-[February 28, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%2028,%202024%20Lecture.md)
+[February 28, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/February%2028,%202024%20Lecture.md)
 
-[March 1, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/March%201,%202024%20Lecture.md)
+[March 1, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/March%201,%202024%20Lecture.md)
 
-[March 4, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/March%204%2C%202024%20Lecture.md)
+[March 4, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/March%204%2C%202024%20Lecture.md)
 
 # EXAM 3
