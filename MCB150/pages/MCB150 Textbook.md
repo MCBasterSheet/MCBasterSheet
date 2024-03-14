@@ -1,4 +1,4 @@
-- [Chapter 1: An Introduction To Biololgy](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%201%3A%20An%20Introduction%20To%20Biololgy.md)
+- [Chapter 1: An Introduction To Biololgy](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%201%3A%20An%20Introduction%20To%20Biololgy.md)
 - [Chapter 2: The Chemical Basis of Life 1: Atoms, Molecules, and Water](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%202:%20The%20Chemical%20Basis%20of%20Life%20I:%20Atoms,%20Molecules,%20and%20Water.md)
 - [Chapter 3: The Chemical Basis of Life 2: Organic Molecules](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%203:%20The%20Chemical%20Basis%20of%20Life%20II:%20Organic%20Molecules.md)
 - [Chapter 4: Evolutionary Origin of Cells and Their General Features](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapter%204%3A%20Evolutionary%20Origin%20of%20Cells%20and%20Their%20General%20Features.md)
