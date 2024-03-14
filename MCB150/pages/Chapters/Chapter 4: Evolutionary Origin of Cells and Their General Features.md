@@ -8,10 +8,10 @@
 	- New cells come only from pre-existing cells via cell division
 - Used to be unseen, but now we unravel them at a molecular level.
 	- Super complex and adaptable cells man
-- [4.1 - Origin of Living Cells on Earth.md](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.1%20-%20Origin%20of%20Living%20Cells%20on%20Earth.md)
-- [4.2 - Microscopy](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.2%20-%20Microscopy.md)
-- [4.3 - Overview of Cell Structure and Function](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.3%20-%20Overview%20of%20Cell%20Structure%20and%20Function.md)
-- [4.4 - The Cytosol](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.4%20-%20The%20Cytosol.md)
-- [4.5 - The Nucleus and Endomembrane System (Unfinished and Unneeded)](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/4.5%20-%20The%20Nucleus%20and%20Endomembrane%20System.md)
+- [4.1 - Origin of Living Cells on Earth.md](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%204/4.1%20-%20Origin%20of%20Living%20Cells%20on%20Earth.md)
+- [4.2 - Microscopy](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%204/4.2%20-%20Microscopy.md)
+- [4.3 - Overview of Cell Structure and Function](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%204/4.3%20-%20Overview%20of%20Cell%20Structure%20and%20Function.md)
+- [4.4 - The Cytosol](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%204/4.4%20-%20The%20Cytosol.md)
+- [4.5 - The Nucleus and Endomembrane System (Unfinished and Unneeded)](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%204/4.5%20-%20The%20Nucleus%20and%20Endomembrane%20System.md)
 
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/16d690c6-6a2c-4ae6-b23f-cf198360c4db)
