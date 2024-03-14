@@ -17,17 +17,17 @@
 >     - Use of RNA to direct the formation of a protein
 > - This chapter will focus on the expression of genes coding polypeptides (**protein-coding genes**) and the next chapter will see how some genes produce **non-coding RNAs** (ncRNAs, and they do not encode polypeptides)
 
-[12.1 - Overview of Gene Expression](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.1%20-%20Overview%20of%20Gene%20Expression.md)
+[12.1 - Overview of Gene Expression](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.1%20-%20Overview%20of%20Gene%20Expression.md)
 
-[12.2 - Transcription](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.2%20-%20Transcription.md)
+[12.2 - Transcription](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.2%20-%20Transcription.md)
 
-[12.3 - RNA Modification in Eukaryotes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.3%20-%20RNA%20Modification%20in%20Eukaryotes.md)
+[12.3 - RNA Modification in Eukaryotes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.3%20-%20RNA%20Modification%20in%20Eukaryotes.md)
 
-[12.4 - Translation and Genetic Code](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.4%20-%20Translation%20and%20the%20Genetic%20Code.md)
+[12.4 - Translation and Genetic Code](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.4%20-%20Translation%20and%20the%20Genetic%20Code.md)
 
-[12.5 - The Machinery of Translation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.5%20-%20The%20Machinery%20of%20Translation.md)
+[12.5 - The Machinery of Translation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.5%20-%20The%20Machinery%20of%20Translation.md)
 
-[12.6 - The Stages of Translation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/12.6%20-%20The%20Stages%20of%20Translation.md)
+[12.6 - The Stages of Translation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2012/12.6%20-%20The%20Stages%20of%20Translation.md)
 
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/f327f92a-8fdf-4da6-b80c-656c6eef390a)
 
