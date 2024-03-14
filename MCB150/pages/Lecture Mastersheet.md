@@ -1,4 +1,7 @@
 # Here Lies all the Lectures, with transcripts and AI summarizations + dates
+
+# EXAM 1
+
 [Janurary 19, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2019%2C%202023%20Lecture.md)
 
 [January 22, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Janurary%2022%2C%202023%20Lecture.md) 
@@ -16,6 +19,8 @@
 [February 5, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%205%2C%202024%20Lecture.md)
 
 [February 7, 2024 REVIEW SESSION](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%207%2C%202024%20REVIEW%20SESSION.md)
+
+# EXAM 2
 
 [February 9, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/February%209%2C%202024%20Lecture.md)
 
@@ -38,3 +43,5 @@
 [March 1, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/March%201,%202024%20Lecture.md)
 
 [March 4, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/March%204%2C%202024%20Lecture.md)
+
+# EXAM 3
