@@ -7,3 +7,5 @@
 > - But first, we cover mutations (Oh how I love them!)
 
 [15.1 - Consequences of Mutations](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.1%20-%20Consequences%20of%20Mutations.md)
+
+[15.2 - Causes of Mutations](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.2%20-%20Causes%20of%20Mutations.md)
