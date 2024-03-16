@@ -3,6 +3,7 @@ This is a mastersheet of all the content you need for the 2024 Spring Semester f
 
 ## Notes:
 - While it does have many things from the textbooks to the lectures, it does not have everything, especially since I used to leave out a lot of details from when I first started taking notes in the textbook
+  - This is chapters 1-4 (up to 4.5)
 - Please continue to go to class, continue to go to discussions, and make sure that you still study for each exam
 - Aside from that, I wish you best of ??? in MCB 150!
 
