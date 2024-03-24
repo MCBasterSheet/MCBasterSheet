@@ -12,4 +12,5 @@
 > - Lastly we see variation in structure and number of chromosomes, and certain mechanisms alter chromosome structure and number have important consequences for the organisms that carry them
 
 [16.1 - The Eukaryotic Cell Cycle](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2016/16.1%20-%20The%20Eukaryotic%20Cell%20Cycle.md)
+
 [16.2 - Mitotic Cell Division]()
