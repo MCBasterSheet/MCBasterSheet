@@ -13,4 +13,4 @@
 
 [16.1 - The Eukaryotic Cell Cycle](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2016/16.1%20-%20The%20Eukaryotic%20Cell%20Cycle.md)
 
-[16.2 - Mitotic Cell Division]()
+[16.2 - Mitotic Cell Division](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2016/16.2%20-%20Mitotic%20Cell%20Division.md)
