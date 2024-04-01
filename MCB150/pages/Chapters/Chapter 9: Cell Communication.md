@@ -17,7 +17,10 @@
 >
 > Before we get into this, we start with general features of cell communication, letting us discuss ways cells receive, process, and respond to signals from other cells letting us learn about cell communication and its amazing diversity of signaling molecules and yada yada yada. We conclude by learning how cells create suicide pacts (apoptosis)
 
-[9.1 - Genearl Features of Cell Communication]()
+[9.1 - General Features of Cell Communication](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%209/9.1%20-%20General%20Features%20of%20Cell%20Communication.md)
+
 [9.2 - Cellular Receptors and Their Activate]()
+
 [9.3 - Signal Transduction and the Cellular Response]()
+
 [9.4 - Hormonal Signlaing in Multicellular Organisms]()
