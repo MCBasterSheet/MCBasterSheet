@@ -9,3 +9,7 @@
 [15.1 - Consequences of Mutations](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.1%20-%20Consequences%20of%20Mutations.md)
 
 [15.2 - Causes of Mutations](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.2%20-%20Causes%20of%20Mutations.md)
+
+[15.3 - DNA Repair](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.3%20-%20DNA%20Repair.md)
+
+[15.4 - Cancer](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2015/15.4%20-%20Cancer.md)
