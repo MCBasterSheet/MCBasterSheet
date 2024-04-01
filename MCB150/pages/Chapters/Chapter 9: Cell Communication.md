@@ -19,7 +19,7 @@
 
 [9.1 - General Features of Cell Communication](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%209/9.1%20-%20General%20Features%20of%20Cell%20Communication.md)
 
-[9.2 - Cellular Receptors and Their Activation]()
+[9.2 - Cellular Receptors and Their Activation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%209/9.2%20-%20Cellular%20Receptors%20and%20Their%20Activation.md)
 
 [9.3 - Signal Transduction and the Cellular Response]()
 
