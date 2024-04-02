@@ -5,6 +5,7 @@
 - [Chapter 5: Membrane Structure, Synthesis, and Transport](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%205%3A%20Membrane%20Structure%2C%20Synthesis%2C%20and%20Transport.md)
 - [Chapter 6: An Introduction to Energy, Enzymes, and Metabolism](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%206:%20An%20Introduction%20to%20Energy,%20Enzymes,%20and%20Metabolism.md)
 - [Chapter 7: Cellular Respiration and Fermentation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%207%3A%20Cellular%20Respiration%20and%20Fermentation.md)
+- [Chapter 9: Cell Communication](https://github.com/MCBasterSheet/MCBasterSheet/tree/main/MCB150/pages/SubChapters/Chapter%209)
 - [Chapter 11: Nucleic Acid Structure, DNA Replication, and Chromosome Structure](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2011:%20Nucleic%20Acid%20Structure,%20DNA%20Replication,%20and%20Chromosome%20Structure.md)
 - [Chapter 12: Gene Expression at the Molecular Level I: Production of mRNAs and Proteins](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2012%3A%20Gene%20Expression%20at%20the%20Molecular%20Level%20I%3A%20Production%20of%20mRNAs%20and%20Proteins.md)
 - [Chapter 15: Mutation, DNA Repair, and Cancer](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2015%3A%20Mutation%2C%20DNA%20Repair%2C%20and%20Cancer.md)
