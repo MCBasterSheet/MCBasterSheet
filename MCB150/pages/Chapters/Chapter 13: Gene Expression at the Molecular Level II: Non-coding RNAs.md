@@ -21,7 +21,7 @@
 
 [13.3 - Effects of Non-coding RNAs on Translation and mRNA Degradation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2013/13.3%20-%20Effects%20of%20Non-coding%20RNAs%20on%20Translation%20and%20mRNA%20Degradation.md)
 
-[13.4 - Non-coding RNAs and Protein Sorting]()
+[13.4 - Non-coding RNAs and Protein Sorting](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2013/13.4%20-%20Non-coding%20RNAs%20and%20Protein%20Sorting.md)
 
 [13.5 - Non-coding RNAs and Genome Defense]()
 
