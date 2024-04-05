@@ -15,11 +15,11 @@
 > This chapter will cover the properties of ncRNAs, then specific examples of functions they perform. The end of the chapter considers the role of ncRNAs in different human disease and in plant health.
 
 
-[13.1 - Overview of Non-coding RNAs]()
+[13.1 - Overview of Non-coding RNAs](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2013/13.1%20-%20Overview%20of%20Non-coding%20RNAs.md)
 
-[13.2 - Effects of Non-coding RNAs on Chromatin Structure and Transcription]()
+[13.2 - Effects of Non-coding RNAs on Chromatin Structure and Transcription](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2013/13.2%20-%20Effects%20of%20Non-coding%20RNAs%20on%20Chromatin%20Structure%20and%20Transcription.md)
 
-[13.3 - Effects of Non-coding RNAs on Translation and mRNA Degradation]()
+[13.3 - Effects of Non-coding RNAs on Translation and mRNA Degradation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2013/13.3%20-%20Effects%20of%20Non-coding%20RNAs%20on%20Translation%20and%20mRNA%20Degradation.md)
 
 [13.4 - Non-coding RNAs and Protein Sorting]()
 
