@@ -60,6 +60,6 @@
 
 [April 1, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/April%201,%202024%20Lecture.md)
 
-[April 3, 2024 Lecture]()
+[April 3, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/April%203%2C%202024%20Lecture.md)
 
-[April 5, 2024 Lecture]()
+[April 5, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/April%205%2C%202024%20Lecture.md)
