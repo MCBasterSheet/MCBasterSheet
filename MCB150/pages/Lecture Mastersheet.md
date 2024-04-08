@@ -45,3 +45,15 @@
 [March 4, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%202/March%204%2C%202024%20Lecture.md)
 
 # EXAM 3
+
+[March 18, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2018%2C%202024%20Lecture.md)
+
+[March 20, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2020%2C%202024%20Lecture.md)
+
+[March 22, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2022%2C%202024%20Lecture.md)
+
+[March 25, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2025%2C%202024%20Lecture.md)
+
+[March 27, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2027%2C%202024%20Lecture.md)
+
+[March 29, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Exam%203/March%2029%2C%202024%20Lecture.md)
