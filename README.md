@@ -2,9 +2,8 @@
 This is a mastersheet of all the content you need for the 2024 Spring Semester for MCB150; however, it may even be able to be used later down the line for 2024 Fall, 2025 Spring, etc.
 
 ## Notes:
-- While it does have many things from the textbooks to the lectures, it does not have everything, especially since I used to leave out a lot of details from when I first started taking notes in the textbook
-  - This is chapters 1-4 (up to 4.4)
-- Please continue to go to class, continue to go to discussions, and make sure that you still study for each exam
+- Chapters 1-4 (up to 4.4) has missing diagrams, ugly low quality photos, and while it has everything you want to know, it is just an eye sore. 
+- Please continue to go to class, continue to go to discussions, and make sure that you still study for each exam. This is not a get out of jail free
 - Aside from that, I wish you best of ??? in MCB 150!
 
 [Textbook Mastersheet](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/MCB150%20Textbook.md)
