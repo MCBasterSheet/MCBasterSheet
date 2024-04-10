@@ -13,7 +13,7 @@
 
 [14.1 - Overview of Gene Regulation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2014/14.1%20-%20Overview%20of%20Gene%20Regulation.md)
 
-[14.2 - Regulation of Transcription in Bacteria]()
+[14.2 - Regulation of Transcription in Bacteria](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2014/14.2%20-%20Regulation%20of%20Transcription%20in%20Bacteria.md)
 
 [14.3 - Regulation of Tarnscription in Eukaryotes I: Roles of Transcription Factors and Mediator Complex]()
 
