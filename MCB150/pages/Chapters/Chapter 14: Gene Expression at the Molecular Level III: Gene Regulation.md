@@ -11,7 +11,7 @@
 >
 > A lot of genes are important for the upkeep of an organism, so this chapter will overview the benefits of gene regulation, general mechanisms of it in bacteria and eukaryotes, and how it is done in the face of environmental changes in bacteria and eukaryotes
 
-[14.1 - Overview of Gene Regulation]()
+[14.1 - Overview of Gene Regulation](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2014/14.1%20-%20Overview%20of%20Gene%20Regulation.md)
 
 [14.2 - Regulation of Transcription in Bacteria]()
 
