@@ -1,4 +1,5 @@
-> ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/8ddf6c6d-1a86-48dc-a13d-be1214fde957)
+> ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/ae4f7cf3-060b-4fde-9203-597c77281979)
+
 >
 > Cool ass protein binding to DNA to regulate genes (CAP!)
 >
