@@ -15,7 +15,7 @@
 
 [14.2 - Regulation of Transcription in Bacteria](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2014/14.2%20-%20Regulation%20of%20Transcription%20in%20Bacteria.md)
 
-[14.3 - Regulation of Tarnscription in Eukaryotes I: Roles of Transcription Factors and Mediator Complex]()
+[14.3 - Regulation of Tarnscription in Eukaryotes I: Roles of Transcription Factors and Mediator Complex](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2014/14.3%20-%20Regulation%20of%20Transcription%20in%20Eukaryotes%20I:%20Roles%20of%20Transcription%20Factors%20and%20Mediator%20Complex.md)
 
 [14.4 - Regulation of Transcription in Eukaryotes II: Changes in Chromatin Structure and DNA Methylation]()
 
