@@ -71,3 +71,44 @@
 - *What did the biology teacher say about office hours? It's time to cell-abrate your learning journey!*
 
 # Lac Operon Discussion: Negative Regulation
+
+## Negative Regulation
+- Negative regulation of the lac operon involves a repressor protein.
+- The repressor protein inhibits lac operon gene expression.
+- Lactose acts as an inducer molecule, lifting negative regulation.
+- When lactose is absent, negative regulation is established, resulting in minimal expression.
+- Lifting negative regulation does not equal positive regulation.
+
+## Positive Regulation
+- Positive regulation involves enhancing RNA polymerase activity.
+- Cyclic AMP (cAMP) and CAP (catabolite activator protein) are involved.
+- cAMP levels are inversely proportional to glucose levels.
+- Adenylil cyclase converts ATP to cAMP, inhibited by glucose.
+- CAP requires cAMP to function as an activator.
+- Positive regulation occurs when glucose levels are low and cAMP is present.
+
+## Mechanism
+- CAP-cAMP complex enhances RNA polymerase binding to the promoter.
+- Positive regulation increases transcription efficiency.
+- Glucose inhibits positive regulation even if negative regulation is lifted.
+- Maximal expression occurs in the presence of lactose and absence of glucose.
+
+# Lac Operon Regulation Transcript Summary (Part 2)
+
+## Regulation Reset
+- Glucose limits positive regulation but doesn't affect negative regulation lifting.
+- Glucose prevents maximal expression, keeping mRNA levels moderate.
+- Removal of glucose allows cyclic AMP levels to rise, enabling maximal expression.
+- To reset the system, lactose must be removed to restore negative regulation.
+
+## Enzymatic Action
+- Beta-galactosidase (BetaGal) cleaves lactose into glucose and galactose.
+- BetaGal's action changes repressor confirmation, reestablishing negative regulation.
+
+## mRNA Dynamics
+- Polycistronic mRNA is independently translated.
+- mRNA stability affects protein production levels.
+- mRNA degradation preferentially starts from the 3' end.
+- Gradual degradation affects translation of lacZ, lacY, and lacA genes independently.
+- Translation initiation efficiency also influences protein production levels.
+
