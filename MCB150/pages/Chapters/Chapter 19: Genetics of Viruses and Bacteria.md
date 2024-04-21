@@ -5,7 +5,11 @@
 Pathogens are agents causing disease in their hosts. Here, we will see the genetic analysis of viruses and bacteria, examining viruses and other nonliving particles causing infection. We will also look into bacteria and their gene transfer technique.
 
 [19.1 - General Properites of Viruses]()
+
 [19.2 - Viral Reproductive Cycles]()
+
 [19.3 - Viroids and Prions]()
+
 [19.4 - Genetic Properties of Bacterial]()
+
 [19.5 - Gene Transfer Between Bacteria]()
