@@ -13,8 +13,7 @@
 - [Chapter 15: Mutation, DNA Repair, and Cancer](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2015%3A%20Mutation%2C%20DNA%20Repair%2C%20and%20Cancer.md)
 - [Chapter 16: The Eukaryotic Cell Cycle, Mitosis, and Meiosis](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2016%3A%20The%20Eukaryotic%20Cell%20Cycle%2C%20Mitosis%2C%20and%20Meiosis.md)
 - [Chapter 19: Genetics of Viruses and Bacteria](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2019%3A%20Genetics%20of%20Viruses%20and%20Bacteria.md)
-
-
+- [Chapter 21: Genetic Technologies and Genomics](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Chapters/Chapter%2021%3A%20Genetic%20Technologies%20and%20Genomics.md)
 
 
 ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/453a0e5f-42c5-4591-82b5-d4a9c20f9fd3) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/41f20ef5-7f26-4b7c-9624-f3dbd0b6c310) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/2e9362a9-4ea9-4a97-8ab5-618782fb2e69) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/1522e899-1de5-4f02-82cd-6596e1e0306a) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/7bb7e763-0ef5-438b-b938-eebb23d7b924) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/6f30e642-94b7-47a4-a30f-d4ed0ba18a44) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/6471dd9b-4b34-4acc-837f-c2ee92212edd) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/061581b7-8bc1-4403-a62f-b87fea6253f7) ![image](https://github.com/MCBasterSheet/MCBasterSheet/assets/157453648/ac9944e4-9592-4433-96ee-ca20ebbf99f3)
