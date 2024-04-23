@@ -4,7 +4,7 @@ Then after you fuck around and find out for one of the longest chapters we have 
 
 Then to close this shitty ass year off, we will be covering the genome characteristics of bacteria, archaea, and eukaryotes. We see what the fuck is the deal with repetitive sequences.
 
-[21.1 - Gene Cloning]()
+[21.1 - Gene Cloning](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2021/21.1%20-%20Gene%20Cloning.md)
 
 [21.2 - Genomics: Techniques for Studying and Altering Genomes]()
 
