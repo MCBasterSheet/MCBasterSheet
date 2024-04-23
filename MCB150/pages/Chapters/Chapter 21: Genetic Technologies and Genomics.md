@@ -6,9 +6,9 @@ Then to close this shitty ass year off, we will be covering the genome character
 
 [21.1 - Gene Cloning](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2021/21.1%20-%20Gene%20Cloning.md)
 
-[21.2 - Genomics: Techniques for Studying and Altering Genomes]()
+[21.2 - Genomics: Techniques for Studying and Altering Genomes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2021/21.2%20-%20Genomics%3A%20Techniques%20for%20Studying%20and%20Altering%20Genomes.md)
 
-[21.3 - Bacterial and Archaeal Genomes]()
+[21.3 - Bacterial and Archaeal Genomes](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/SubChapters/Chapter%2021/21.3%20-%20Bacterial%20and%20Archaeal%20Genomes.md)
 
 [21.4 - Eukaryotic Genomes]()
 
