@@ -32,3 +32,24 @@
 ### Replicative Strategies
 - Viruses replicate their RNA using RNA-dependent RNA polymerase (replicase), either brought into the cell or synthesized upon entry.
 - Positive sense RNA viruses are immediately translatable, while negative sense RNA viruses require replication to generate translatable templates.
+
+## RNA Interference in Positive Sense RNA Viruses
+- **Sequestration of RNAs**: Positive sense RNA viruses have evolved strategies to sequester RNAs they don't intend to use or package.
+- **Potential for Interference**: There's a potential for accidental RNA interference, but the virus has mechanisms to prevent it.
+- **Packaging of Proteins**: Some RNAs are translated near the plasma membrane and packaged with proteins.
+
+## Negative Sense RNA Viruses
+- **Replicase Packaging**: Negative sense RNA viruses package replicase along with their genome.
+- **Replicase Function**: Replicase initiates the transcription of positive sense RNA from the negative sense RNA template.
+- **Amplification**: Replicase facilitates the production of more positive sense RNA molecules, which can be translated into viral proteins and serve as templates for replicase.
+
+## Retroviruses, Specifically HIV
+- **Viral Structure**: HIV consists of an envelope, capsid, and two copies of single-stranded RNA genome.
+- **Enzymes**: HIV carries reverse transcriptase and integrase, essential for its replication cycle.
+- **Reverse Transcription**: Reverse transcriptase converts single-stranded RNA into double-stranded DNA in a three-step process.
+- **Integration**: Integrase helps integrate the newly synthesized DNA into the host chromosome.
+- **Expression Regulation**: HIV integrates into specific regions of the host genome, regulating its expression based on host cell needs.
+- **Polyprotein Translation**: HIV utilizes host machinery to translate its RNA into a single polypeptide, which is later cleaved by viral protease.
+- **Protease Function**: Viral protease releases individual viral proteins from the polyprotein, facilitating viral assembly.
+- **Assembly and Budding**: The released proteins assemble into new viral particles, which bud off from the host cell membrane, completing the replication cycle.
+
