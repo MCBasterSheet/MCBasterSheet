@@ -68,6 +68,18 @@
 
 # Post Exam 3/Final Exam Material
 
-[April 10, 2024 Lecture]()
-
 [April 15, 2024 Lecture](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Post%20Exam%203/April%2015%2C%202024%20Lecture.md)
+
+[April 17, 2024 Lecture]()
+
+[April 19, 2024 Lecture]()
+
+[April 22, 2024 Lecture]()
+
+[April 24, 2024 Lecture]()
+
+[April 26, 2024 Lecture]()
+
+[April 28, 2024 Lecture]()
+
+[May 1, 2024 Lecture]()
