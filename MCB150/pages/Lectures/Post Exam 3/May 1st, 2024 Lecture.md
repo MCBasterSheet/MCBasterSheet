@@ -2,6 +2,6 @@ It is the last one. I admit, sometimes I feel like this class is a hopeless mess
 
 Here is an address to those who believe in the father above, and question why this class is even allowed to stress, ruin, and destroy people, who could have even been the rare few who live righteously. Like children suffering from the cruel randomness and the forces of nature that plagues us, we are stranded in a class that whilst influenced and made worse partially by the free will of humans, is still a random event that has attacked our very mind, body, and soul. The only answer I could give you is that he weeps too for you. Paradise after death is not a reward for our good doings, rather it is the only way he could ever apologize for the suffering we experience while still staying righteous on Earth while ensuring that each human has the free will to not only maybe love him, but to have the real ability to genuinely love each other. 
 
-[Raw Transcript]()
+[Raw Transcript](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/Raw-Transcripts/May%201st%2C%202024.md)
 
-[AI Summarized]()
+[AI Summarized](https://github.com/MCBasterSheet/MCBasterSheet/blob/main/MCB150/pages/Lectures/AI-Summaries/First%20of%20May%202024.md)
